@@ -1,0 +1,3 @@
+[submodule "lib/midi"]
+	path = lib/midi
+	url = https://github.com/besi/kicad-midi
